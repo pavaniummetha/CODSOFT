@@ -1,0 +1,124 @@
+<html>
+<head>
+	<title>YOU TUBE</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<style>
+	.parent{
+		height: 1030px;width: 1200px;background: black
+	}
+	.menu{
+		height: 900px;width:120px;float: left;color: white
+	}
+	.content{
+      height: 1030px;width:1060px;background:black;float: right
+	}
+	.menu ul{
+		list-style: none
+	}
+	.menu ul li{
+		margin: 15px 0px 0px 5px;
+	}
+
+	.menu ul li a{
+		text-decoration: none;color: white
+	}
+	.menu ul li i{ margin-right: 5px }
+
+  .menu ul li a:hover{
+		background: grey;padding:5px;
+	}
+
+</style>
+<body style="margin:0">
+ 
+ <div class="parent">
+
+ 	<div class="menu">
+ 		<center><i class="fa fa-bars"style="color: white;margin:10px"><a href="C:\Users\uvdsp\OneDrive\Documents\html\y.html"></a></i>
+ 		<img src="C:\Users\uvdsp\OneDrive\Documents\images\logo.jpg"style="height: 40px;width: 80px;margin: 0 auto;margin-top:10px;margin-right:-19px;margin-left:10px"</center>
+
+ 		<ul>
+         <h5><li><i class="fa fa-home"></i>Home</li></h5><br>
+         <h5><li><i class="fa fa-line-chart"></i>Shorts</li></h5><br>
+         <h5><li><i class="fa fa-sign-language"></i>Subscribe</li></h5><br>
+         <h5><li><i class="fa fa-yoast">You</i></h5><br>
+ 		</ul>
+ 	</div>
+
+ 	<div class="content">
+ 		<center><input type="search"value="SEARCH"style="margin-top:20px;width:300;height:30px;border-radius:20px;color:mediumpurple"></center><br>
+ 		<div style="height:50px;width:1200px">
+ 		<input type="All"value="ALL"style="width:40px;height:30px;background:black;color:white;margin-left:2px;border-radius:5px">
+ 	    <input type="Music"value="Music"style="width:50px;height:30px;background:black;color:white;border-radius:5px">
+ 	    <input type="Telugu films"value="Telugu films"style="width:80px;height:30px;background:black;color:white;border-radius:5px">
+        <input type="T-Series"value="T-Series"style="width:60px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Jabardasth"value="Jabardasth"style="width:60px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Mixes"value="Mixes"style="width:42px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Live"value="Live"style="width:40px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Motorcycling"value="Mototcycling"style="width:85px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Recentlyuploaded"value="Recentlyuploaded"style="width:115px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Filmi"value="Filmi"style="width:40px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Watched"value="Watched"style="width:60px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Newtoyou"value="Newtoyou"style="width:70px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Dramedy"value="Dramedy"style="width:68px;height:30px;background:black;color:white;border-radius:5px">
+ 			<input type="Tamil telivision drama"value="Tamil television drama"style="width:145px;height:30px;background:black;color:white;border-radius:5px"><br><br>
+
+
+ 		<div style="height: 200px;width:1140px">
+ 		<div style="height: 200px;width:300px;float:left;margin-top:5px;margin-left:10px">
+
+ 			<iframe width="300" height="200" src="https://www.youtube.com/embed/8KaJRw-rfn8?si=UGXWiCH8ppCwyTri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 		</div>
+                 <div style="heiht:200px;width:300px;float:left;margin-left:10px;margin-top:5px"> 
+ 		<iframe width="300" height="200" src="https://www.youtube.com/embed/a9__D53WsUs?si=foJuk6LiDvdiYpyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 		</div>
+ 		<div style="width: 200px;height: 300px;float: left;margin-left:10px;margin-top:5px">
+ 			<iframe width="300" height="200" src="https://www.youtube.com/embed/MY3jR-a29JI?si=WReQkPYIBzKf6SDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 		</div>
+ 		</div>
+ 			<br>
+
+ 			<div style="height: 200px;width: 1000px;">
+ 			
+ 			<div style="width: 300px;height: 200px;float: left;margin-left: 5px;margin-left:10px;margin-top:-70px">
+ 				<iframe width="300" height="200" src="https://www.youtube.com/embed/FQdaUv95mR8?si=lcanc1AC4uiTwR4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 				
+
+ 			</div>
+ 			<div style="width: 300px;height: 200px;float: left;margin: 20px;margin-left:10px;margin-top:-70px">
+ 				<iframe width="300" height="200" src="https://www.youtube.com/embed/qKoajPPWpmo?si=T2cp5Q4qr7NAO60y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 				<p>This is text</p>
+ 				 
+
+ 			</div>
+ 			<div style="width: 300px;height: 200px;float: left;margin: -2px;margin-left:-7px;margin-top:-70px">
+ 				<iframe width="300" height="200" src="https://www.youtube.com/embed/o1IaduQICO0?si=gkXwHSscEfs2oN8D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 			</div>
+ 		</div>
+ 		<br>
+ 			<div style="height: 200px;width: 1000px;">
+ 			<div style="width: 300px;height: 200px;float: left;margin-left: 5px;margin-left:-10px;margin-top:30px">
+             <iframe width="300" height="200" src="https://www.youtube.com/embed/ExcRbA7fy_A?si=ol3E2N8vSzY3BBKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div style="width: 300px;height: 200px;float: left;margin-left: 5px;margin-left:-610px;margin-top:30px">
+        	<iframe width="300" height="200" src="https://www.youtube.com/embed/88m62msuFLs?si=JkvSup0V4_63agqf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div style="width: 300px;height: 200px;float: left;margin-left: 10px;margin-right:90px;margin-top:-200px">
+        	<iframe width="300" height="200" src="https://www.youtube.com/embed/LAUi8pPlcUM?si=Qw1Ggw3P3p53d3Ub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 	</div>
+ </div>
+        <div style="height: 200px;width: 1000px;">
+ 		<div style="width: 300px;height: 200px;float: left;margin-left: 10px;margin-left:10px;margin-top:30px">
+ 			<iframe width="300" height="200" src="https://www.youtube.com/embed/Ene4x52tE2A?si=6RLEWil3denDtLgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 	    </div>
+ 	   <div style="width: 300px;height: 200px;float: left;margin-left: 10px;margin-left:10px;margin-top:30px">
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/ACiNC1T0Et0?si=6zRV2URCv4cRATFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div style="width: 300px;height: 200px;float: left;margin-left: 10px;margin-left:10px;margin-top:30px">
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/8XMtGXZbEow?si=o18COraKt-a1UZT-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+
+</body>
+</html>
